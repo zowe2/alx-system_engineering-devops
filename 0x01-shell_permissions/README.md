@@ -1,1 +1,1 @@
- directory for the owner, the group owner and all other users
+script that creates a directory called my_dir with permissions 751 in the working directory.
