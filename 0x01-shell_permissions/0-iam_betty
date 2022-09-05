@@ -1,2 +1,2 @@
-#!/bin/bash quote> su betty
-pwd
+#!/bin/bash
+su 0-iam_betty
